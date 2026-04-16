@@ -18,7 +18,8 @@ Focused on building impactful solutions through analytics, machine learning, and
 - 🤖 Strong interest in Artificial Intelligence, Machine Learning, and emerging technologies  
 - 📈 Experienced in analytics, business intelligence, and predictive modeling  
 - 🚀 Continuously improving technical and professional skills  
-- 🌍 Open to international opportunities and innovative collaborations  
+- 🌍 Open to international opportunities and innovative collaborations
+- 📫 Check out my profile on LinkedIn 
 
 ---
 
